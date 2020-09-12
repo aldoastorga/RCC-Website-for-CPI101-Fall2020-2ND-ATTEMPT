@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding:-10;
+}
+
+
+.wrapper {
+	margin: 0 auto;
+	width: 700px;
+}
+
+.img-portrait {
+	width:5px;
+	height:10px;
+}
+
+
